@@ -1,0 +1,744 @@
+[
+  {
+    "username": "babulkabetmen",
+    "authType": "offline",
+    "password": "1234q1234q",
+    "recoveryTriggers": {
+      "onReconnect": true,
+      "onRespawn": true
+    },
+    "recoverySequenceText": "reconect\nwait:1000\nuse\nwait:150\nclick:12:0:0",
+    "registered": false,
+    "id": "2c120779-5d95-4a02-964b-66b47856f3c3",
+    "lastServer": {
+      "host": "mc.sunw.pro",
+      "port": "25565",
+      "version": "1.16.5"
+    },
+    "rememberedPos": {
+      "x": 120,
+      "y": 5,
+      "z": -4999
+    },
+    "autoReconnect": true,
+    "clicker": {
+      "button": 1,
+      "delay": 25,
+      "active": true
+    },
+    "chatLoop": {
+      "text": "/warp asfkljajhskjfhksa",
+      "delay": 1000,
+      "active": false
+    },
+    "autoBal": {
+      "interval": 60000,
+      "active": true
+    },
+    "autoHeal": {
+      "active": false
+    },
+    "autoPayday": {
+      "intervalHours": 4,
+      "active": false
+    },
+    "macroLoop": {
+      "text": "",
+      "delay": 5000,
+      "active": false
+    },
+    "useDirect": false,
+    "chatScanner": {
+      "active": false,
+      "pattern": "",
+      "whitelist": [],
+      "action": ""
+    },
+    "authConfig": {
+      "enabled": true,
+      "registerCommand": "/register {password} {password}",
+      "loginCommand": "/login {password}",
+      "registerPattern": "не зарегистрирован|незарегистрирован|зарегистрируйтесь|регистрация|используйте.*register|not registered|please register",
+      "loginPattern": "войдите|авторизу|авторизаци|используйте.*login|please login|already registered|уже зарегистрирован|Авторизация на сервере|[ⓘ] ▶ Авторизация на сервере: /l [пароль]"
+    },
+    "autoFish": {
+      "active": false
+    },
+    "autoShop": {
+      "openCmd": "",
+      "slots": "",
+      "button": 0,
+      "delay": 500,
+      "cycleDelay": 1000,
+      "active": false
+    },
+    "autoBoneMeal": {
+      "lookYaw": 0,
+      "lookPitch": 90,
+      "active": false
+    },
+    "proxy": {
+      "type": "socks5",
+      "host": "192.109.100.239",
+      "port": "8000",
+      "username": "dqZ6Md",
+      "password": "DwpqSv"
+    }
+  },
+  {
+    "username": "AKVALONE_GEY",
+    "authType": "offline",
+    "password": "tK9U3FghIJ2R",
+    "recoveryTriggers": {
+      "onReconnect": true,
+      "onRespawn": true
+    },
+    "recoverySequenceText": "reconect\nwait:1000\nuse\nwait:150\nclick:12:0:0",
+    "registered": true,
+    "id": "7142d8da-e380-43d4-a9f3-55c4fef46958",
+    "lastServer": {
+      "host": "mc.sunw.pro",
+      "port": "25565",
+      "version": "1.16.5"
+    },
+    "rememberedPos": {
+      "x": 114,
+      "y": 5,
+      "z": -4999
+    },
+    "autoReconnect": true,
+    "clicker": {
+      "button": 1,
+      "delay": 25,
+      "active": true
+    },
+    "chatLoop": {
+      "text": "/warp asfkljajhskjfhksa",
+      "delay": 1000,
+      "active": false
+    },
+    "autoBal": {
+      "interval": 60000,
+      "active": true
+    },
+    "autoHeal": {
+      "active": false
+    },
+    "autoPayday": {
+      "intervalHours": 4,
+      "active": false
+    },
+    "macroLoop": {
+      "text": "",
+      "delay": 5000,
+      "active": false
+    },
+    "chatScanner": {
+      "active": false,
+      "pattern": "",
+      "whitelist": [],
+      "action": "chat:/clan chat {name} рядом (в {dist} блоках от бота)!",
+      "nearInterval": 5
+    },
+    "useDirect": false,
+    "authConfig": {
+      "enabled": true,
+      "registerCommand": "/register {password} {password}",
+      "loginCommand": "/login {password}",
+      "registerPattern": "не зарегистрирован|незарегистрирован|зарегистрируйтесь|регистрация|используйте.*register|not registered|please register",
+      "loginPattern": "войдите|авторизу|авторизаци|используйте.*login|please login|already registered|уже зарегистрирован|Авторизация на сервере|[ⓘ] ▶ Авторизация на сервере: /l [пароль]"
+    },
+    "autoFish": {
+      "active": false
+    },
+    "autoShop": {
+      "openCmd": "",
+      "slots": "",
+      "button": 0,
+      "delay": 500,
+      "cycleDelay": 1000,
+      "active": false
+    },
+    "autoBoneMeal": {
+      "lookYaw": 0,
+      "lookPitch": 90,
+      "active": false
+    },
+    "proxy": {
+      "type": "socks5",
+      "host": "192.109.100.239",
+      "port": "8000",
+      "username": "dqZ6Md",
+      "password": "DwpqSv"
+    }
+  },
+  {
+    "username": "Tas1234",
+    "authType": "offline",
+    "password": "1234q1234q",
+    "recoveryTriggers": {
+      "onReconnect": true,
+      "onRespawn": true
+    },
+    "recoverySequenceText": "reconect\nwait:1000\nuse\nwait:150\nclick:12:0:0",
+    "registered": true,
+    "id": "ac521ac3-4052-42cd-baa9-163d8cb3534f",
+    "lastServer": {
+      "host": "mc.sunw.pro",
+      "port": "25565",
+      "version": "1.16.5"
+    },
+    "rememberedPos": {
+      "x": 108,
+      "y": 5,
+      "z": -4999
+    },
+    "autoReconnect": true,
+    "clicker": {
+      "button": 1,
+      "delay": 25,
+      "active": true
+    },
+    "chatLoop": {
+      "text": "/warp asfkljajhskjfhksa",
+      "delay": 1000,
+      "active": false
+    },
+    "autoBal": {
+      "interval": 60000,
+      "active": true
+    },
+    "autoHeal": {
+      "active": false
+    },
+    "autoPayday": {
+      "intervalHours": 4,
+      "active": false
+    },
+    "macroLoop": {
+      "text": "",
+      "delay": 5000,
+      "active": false
+    },
+    "chatScanner": {
+      "active": false,
+      "pattern": "",
+      "whitelist": [],
+      "action": ""
+    },
+    "authConfig": {
+      "enabled": true,
+      "registerCommand": "/register {password} {password}",
+      "loginCommand": "/login {password}",
+      "registerPattern": "не зарегистрирован|незарегистрирован|зарегистрируйтесь|регистрация|используйте.*register|not registered|please register",
+      "loginPattern": "войдите|авторизу|авторизаци|используйте.*login|please login|already registered|уже зарегистрирован|Авторизация на сервере|[ⓘ] ▶ Авторизация на сервере: /l [пароль]"
+    },
+    "autoFish": {
+      "active": false
+    },
+    "autoShop": {
+      "openCmd": "",
+      "slots": "",
+      "button": 0,
+      "delay": 500,
+      "cycleDelay": 1000,
+      "active": false
+    },
+    "autoBoneMeal": {
+      "lookYaw": 0,
+      "lookPitch": 90,
+      "active": false
+    },
+    "proxy": {
+      "type": "socks5",
+      "host": "192.109.100.239",
+      "port": "8000",
+      "username": "dqZ6Md",
+      "password": "DwpqSv"
+    },
+    "useDirect": false
+  },
+  {
+    "username": "1me",
+    "authType": "offline",
+    "password": "Vs8yqpUlMNmk",
+    "recoveryTriggers": {
+      "onReconnect": true,
+      "onRespawn": true
+    },
+    "recoverySequenceText": "reconect\nwait:1000\nuse\nwait:150\nclick:12:0:0",
+    "registered": true,
+    "id": "e110f12a-ad42-4472-b36a-1cf60e156e29",
+    "lastServer": {
+      "host": "mc.sunw.pro",
+      "port": "25565",
+      "version": "1.16.5"
+    },
+    "rememberedPos": {
+      "x": 120,
+      "y": 5,
+      "z": -4996
+    },
+    "autoReconnect": true,
+    "clicker": {
+      "button": 1,
+      "delay": 25,
+      "active": false
+    },
+    "chatLoop": {
+      "text": "/warp asfkljajhskjfhksa",
+      "delay": 1000,
+      "active": false
+    },
+    "autoBal": {
+      "interval": 60000,
+      "active": false
+    },
+    "autoHeal": {
+      "active": false
+    },
+    "autoPayday": {
+      "intervalHours": 4,
+      "active": false
+    },
+    "macroLoop": {
+      "text": "",
+      "delay": 5000,
+      "active": false
+    },
+    "chatScanner": {
+      "active": false,
+      "pattern": "",
+      "whitelist": [],
+      "action": ""
+    },
+    "authConfig": {
+      "enabled": true,
+      "registerCommand": "/register {password} {password}",
+      "loginCommand": "/login {password}",
+      "registerPattern": "не зарегистрирован|незарегистрирован|зарегистрируйтесь|регистрация|используйте.*register|not registered|please register",
+      "loginPattern": "войдите|авторизу|авторизаци|используйте.*login|please login|already registered|уже зарегистрирован|Авторизация на сервере|[ⓘ] ▶ Авторизация на сервере: /l [пароль]"
+    },
+    "autoFish": {
+      "active": false
+    },
+    "autoShop": {
+      "openCmd": "",
+      "slots": "",
+      "button": 0,
+      "delay": 500,
+      "cycleDelay": 1000,
+      "active": false
+    },
+    "autoBoneMeal": {
+      "lookYaw": 0,
+      "lookPitch": 90,
+      "active": false
+    },
+    "proxy": {
+      "type": "socks5",
+      "host": "192.109.91.61",
+      "port": "8000",
+      "username": "dqZ6Md",
+      "password": "DwpqSv"
+    },
+    "useDirect": false
+  },
+  {
+    "username": "0me",
+    "authType": "offline",
+    "password": "29X5RTC",
+    "recoveryTriggers": {
+      "onReconnect": true,
+      "onRespawn": true
+    },
+    "recoverySequenceText": "reconect\nwait:1000\nuse\nwait:150\nclick:12:0:0",
+    "registered": true,
+    "id": "a1e858ba-b6d0-4135-ad6e-b3567b783d69",
+    "lastServer": {
+      "host": "mc.sunw.pro",
+      "port": "25565",
+      "version": "1.16.5"
+    },
+    "autoReconnect": true,
+    "clicker": {
+      "button": 1,
+      "delay": 25,
+      "active": false
+    },
+    "chatLoop": {
+      "text": "/warp asfkljajhskjfhksa",
+      "delay": 1000,
+      "active": false
+    },
+    "autoBal": {
+      "interval": 60000,
+      "active": false
+    },
+    "autoHeal": {
+      "active": false
+    },
+    "rememberedPos": {
+      "x": 114,
+      "y": 5,
+      "z": -4996
+    },
+    "autoPayday": {
+      "intervalHours": 4,
+      "active": false
+    },
+    "macroLoop": {
+      "text": "",
+      "delay": 5000,
+      "active": false
+    },
+    "chatScanner": {
+      "active": false,
+      "pattern": "",
+      "whitelist": [],
+      "action": ""
+    },
+    "authConfig": {
+      "enabled": true,
+      "registerCommand": "/register {password} {password}",
+      "loginCommand": "/login {password}",
+      "registerPattern": "не зарегистрирован|незарегистрирован|зарегистрируйтесь|регистрация|используйте.*register|not registered|please register",
+      "loginPattern": "войдите|авторизу|авторизаци|используйте.*login|please login|already registered|уже зарегистрирован|Авторизация на сервере|[ⓘ] ▶ Авторизация на сервере: /l [пароль]"
+    },
+    "autoFish": {
+      "active": false
+    },
+    "autoShop": {
+      "openCmd": "",
+      "slots": "",
+      "button": 0,
+      "delay": 500,
+      "cycleDelay": 1000,
+      "active": false
+    },
+    "autoBoneMeal": {
+      "lookYaw": 0,
+      "lookPitch": 90,
+      "active": false
+    },
+    "proxy": {
+      "type": "socks5",
+      "host": "192.109.91.61",
+      "port": "8000",
+      "username": "dqZ6Md",
+      "password": "DwpqSv"
+    },
+    "useDirect": false
+  },
+  {
+    "username": "moi_tg_porfumert",
+    "authType": "offline",
+    "password": "1234q1234q",
+    "authConfig": {
+      "enabled": true,
+      "registerCommand": "/register {password} {password}",
+      "loginCommand": "/login {password}",
+      "registerPattern": "не зарегистрирован|незарегистрирован|зарегистрируйтесь|регистрация|используйте.*register|not registered|please register",
+      "loginPattern": "войдите|авторизу|авторизаци|используйте.*login|please login|already registered|уже зарегистрирован|Авторизация на сервере|[ⓘ] ▶ Авторизация на сервере: /l [пароль]"
+    },
+    "recoveryTriggers": {
+      "onReconnect": true,
+      "onRespawn": true
+    },
+    "recoverySequenceText": "reconect\nwait:1000\nuse\nwait:150\nclick:12:0:0",
+    "id": "36321df8-cba6-4d3d-afde-688bf1e0b172",
+    "lastServer": {
+      "host": "mc.sunw.pro",
+      "port": "25565",
+      "version": "1.16.5"
+    },
+    "autoReconnect": true,
+    "macroLoop": {
+      "text": "",
+      "delay": 5000,
+      "active": false
+    },
+    "clicker": {
+      "button": 1,
+      "delay": 25,
+      "active": false
+    },
+    "chatLoop": {
+      "text": "/warp asfkljajhskjfhksa",
+      "delay": 1000,
+      "active": false
+    },
+    "autoBal": {
+      "interval": 60000,
+      "active": false
+    },
+    "autoHeal": {
+      "active": false
+    },
+    "autoPayday": {
+      "intervalHours": "4",
+      "active": false
+    },
+    "chatScanner": {
+      "active": false,
+      "pattern": "",
+      "whitelist": [],
+      "action": ""
+    },
+    "rememberedPos": null,
+    "autoFish": {
+      "active": false
+    },
+    "autoShop": {
+      "openCmd": "",
+      "slots": "",
+      "button": 0,
+      "delay": 500,
+      "cycleDelay": 1000,
+      "active": false
+    },
+    "autoBoneMeal": {
+      "lookYaw": 0,
+      "lookPitch": 90,
+      "active": false
+    },
+    "proxy": {
+      "type": "socks5",
+      "host": "192.109.91.61",
+      "port": "8000",
+      "username": "dqZ6Md",
+      "password": "DwpqSv"
+    },
+    "useDirect": false
+  },
+  {
+    "username": "my_tg_porfumerty",
+    "authType": "offline",
+    "password": "1234q1234q",
+    "authConfig": {
+      "enabled": true,
+      "registerCommand": "/register {password} {password}",
+      "loginCommand": "/login {password}",
+      "registerPattern": "не зарегистрирован|незарегистрирован|зарегистрируйтесь|регистрация|используйте.*register|not registered|please register",
+      "loginPattern": "войдите|авторизу|авторизаци|используйте.*login|please login|already registered|уже зарегистрирован|Авторизация на сервере|[ⓘ] ▶ Авторизация на сервере: /l [пароль]"
+    },
+    "recoveryTriggers": {
+      "onReconnect": true,
+      "onRespawn": true
+    },
+    "recoverySequenceText": "reconect\nwait:1000\nuse\nwait:150\nclick:12:0:0",
+    "id": "5672800c-7210-4fbb-aadd-e725c16e7a2e",
+    "lastServer": {
+      "host": "mc.sunw.pro",
+      "port": "25565",
+      "version": "1.16.5"
+    },
+    "autoReconnect": true,
+    "macroLoop": {
+      "text": "",
+      "delay": 5000,
+      "active": false
+    },
+    "clicker": {
+      "button": 1,
+      "delay": 25,
+      "active": false
+    },
+    "chatLoop": {
+      "text": "",
+      "delay": 5000,
+      "active": false
+    },
+    "autoBal": {
+      "interval": 60000,
+      "active": false
+    },
+    "autoHeal": {
+      "active": false
+    },
+    "autoPayday": {
+      "intervalHours": "4",
+      "active": false
+    },
+    "chatScanner": {
+      "active": false,
+      "pattern": "",
+      "whitelist": [],
+      "action": ""
+    },
+    "rememberedPos": {
+      "x": 102,
+      "y": 5,
+      "z": -4999
+    },
+    "autoFish": {
+      "active": false
+    },
+    "autoShop": {
+      "openCmd": "",
+      "slots": "",
+      "button": 0,
+      "delay": 500,
+      "cycleDelay": 1000,
+      "active": false
+    },
+    "autoBoneMeal": {
+      "lookYaw": 0,
+      "lookPitch": 90,
+      "active": false
+    },
+    "proxy": {
+      "type": "socks5",
+      "host": "192.109.91.30",
+      "port": "8000",
+      "username": "dqZ6Md",
+      "password": "DwpqSv"
+    },
+    "useDirect": false
+  },
+  {
+    "username": "essen",
+    "authType": "offline",
+    "password": "1234q1234q",
+    "authConfig": {
+      "registerCommand": "",
+      "loginCommand": ""
+    },
+    "recoveryTriggers": {
+      "onReconnect": true,
+      "onRespawn": true
+    },
+    "recoverySequenceText": "reconect\nwait:1000\nuse\nwait:150\nclick:12:0:0",
+    "id": "3d385952-e920-421c-8b7e-f36672a6921f",
+    "lastServer": {
+      "host": "mc.sunw.pro",
+      "port": "25565",
+      "version": "1.16.5"
+    },
+    "rememberedPos": {
+      "x": 102,
+      "y": 5,
+      "z": -4996
+    },
+    "autoReconnect": true,
+    "macroLoop": {
+      "text": "",
+      "delay": 5000,
+      "active": false
+    },
+    "clicker": {
+      "button": 1,
+      "delay": 25,
+      "active": false
+    },
+    "chatLoop": {
+      "text": "",
+      "delay": 5000,
+      "active": false
+    },
+    "autoBal": {
+      "interval": 60000,
+      "active": false
+    },
+    "autoHeal": {
+      "active": false
+    },
+    "autoPayday": {
+      "intervalHours": "4",
+      "active": false
+    },
+    "chatScanner": {
+      "active": false,
+      "pattern": "",
+      "whitelist": [],
+      "action": ""
+    },
+    "autoFish": {
+      "active": false
+    },
+    "autoShop": {
+      "openCmd": "",
+      "slots": "",
+      "button": 0,
+      "delay": 500,
+      "cycleDelay": 1000,
+      "active": false
+    },
+    "autoBoneMeal": {
+      "lookYaw": 0,
+      "lookPitch": 90,
+      "active": false
+    },
+    "proxy": {
+      "type": "socks5",
+      "host": "192.109.91.30",
+      "port": "8000",
+      "username": "dqZ6Md",
+      "password": "DwpqSv"
+    },
+    "useDirect": false
+  },
+  {
+    "username": "xLoverLove",
+    "authType": "offline",
+    "password": "hc2QtcbPwe7W",
+    "authConfig": {
+      "enabled": true,
+      "registerCommand": "/register {password} {password}",
+      "loginCommand": "/login {password}",
+      "registerPattern": "не зарегистрирован|незарегистрирован|зарегистрируйтесь|регистрация|используйте.*register|not registered|please register",
+      "loginPattern": "войдите|авторизу|авторизаци|используйте.*login|please login|already registered|уже зарегистрирован|Авторизация на сервере|[ⓘ] ▶ Авторизация на сервере: /l [пароль]"
+    },
+    "recoveryTriggers": {
+      "onReconnect": true,
+      "onRespawn": true
+    },
+    "recoverySequenceText": "reconect\nwait:1000\nuse\nwait:150\nclick:12:0:0",
+    "id": "3d3b07a8-29af-4630-8d02-309178111925",
+    "lastServer": {
+      "host": "mc.sunw.pro",
+      "port": "25565",
+      "version": "1.16.5"
+    },
+    "autoReconnect": true,
+    "macroLoop": {
+      "text": "",
+      "delay": 5000,
+      "active": false
+    },
+    "clicker": {
+      "button": 0,
+      "delay": 600,
+      "active": false
+    },
+    "chatLoop": {
+      "text": "",
+      "delay": 5000,
+      "active": false
+    },
+    "autoBal": {
+      "interval": 60000,
+      "active": false
+    },
+    "autoHeal": {
+      "active": false
+    },
+    "autoPayday": {
+      "intervalHours": "4",
+      "active": false
+    },
+    "chatScanner": {
+      "active": false,
+      "pattern": "",
+      "whitelist": [],
+      "action": ""
+    },
+    "proxy": {
+      "type": "socks5",
+      "host": "192.109.91.30",
+      "port": "8000",
+      "username": "dqZ6Md",
+      "password": "DwpqSv"
+    }
+  }
+]

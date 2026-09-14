@@ -1,0 +1,30 @@
+[
+  {
+    "type": "socks5",
+    "host": "46.161.47.100",
+    "port": "9523",
+    "username": "7VFDhX",
+    "password": "Kr4Zg7"
+  },
+  {
+    "type": "socks5",
+    "host": "46.161.47.121",
+    "port": "9896",
+    "username": "7VFDhX",
+    "password": "Kr4Zg7"
+  },
+  {
+    "type": "socks5",
+    "host": "46.161.47.197",
+    "port": "9240",
+    "username": "7VFDhX",
+    "password": "Kr4Zg7"
+  },
+  {
+    "type": "socks5",
+    "host": "147.45.121.196",
+    "port": "9768",
+    "username": "7VFDhX",
+    "password": "Kr4Zg7"
+  }
+]

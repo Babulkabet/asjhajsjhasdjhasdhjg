@@ -1,0 +1,10 @@
+{
+    "autoclicker": false,
+    "autoReconnect": true,
+    "selectedBots": [],
+    "autoCommand": {
+        "enabled": false,
+        "command": "/spawn",
+        "cooldown": 5000
+    }
+}

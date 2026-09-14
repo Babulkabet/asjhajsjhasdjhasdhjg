@@ -1,0 +1,23 @@
+[
+  {
+    "type": "socks5",
+    "host": "192.109.100.239",
+    "port": "8000",
+    "username": "dqZ6Md",
+    "password": "DwpqSv"
+  },
+  {
+    "type": "socks5",
+    "host": "192.109.91.61",
+    "port": "8000",
+    "username": "dqZ6Md",
+    "password": "DwpqSv"
+  },
+  {
+    "type": "socks5",
+    "host": "192.109.91.30",
+    "port": "8000",
+    "username": "dqZ6Md",
+    "password": "DwpqSv"
+  }
+]
